@@ -1,0 +1,25 @@
+# ninja log v6
+60	261	7721347516459105	Drone_UI_QR_VER_6_9_1_autogen/timestamp	d697b5f4f2ac666e
+22	43	7707965391032983	CMakeFiles/clean.additional	c81449217da8591d
+5430	9392	7716654244651157	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/main.cpp.obj	3c065b5a0de9e11a
+60	261	7721347516459105	D:/projects/drone_swarm/drone_ui/Drone_UI_QR_VER_6_9_1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Drone_UI_QR_VER_6_9_1_autogen/mocs_compilation.cpp	d697b5f4f2ac666e
+187	2913	7708393220152084	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/virtualhorizon.cpp.obj	e7407ba51d74c7c0
+44	52	7707965391252977	clean	797e782201712b8b
+60	261	7721347516459105	Drone_UI_QR_VER_6_9_1_autogen/mocs_compilation.cpp	d697b5f4f2ac666e
+5427	10106	7716654244611149	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/Drone_UI_QR_VER_6_9_1_autogen/mocs_compilation.cpp.obj	19614a949f48afbc
+60	261	7721347516459105	D:/projects/drone_swarm/drone_ui/Drone_UI_QR_VER_6_9_1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Drone_UI_QR_VER_6_9_1_autogen/timestamp	d697b5f4f2ac666e
+24	724	7708849462703190	build.ninja	f861df40746cc24e
+334	615	7708216982214714	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/Drone_UI_QR_VER_6_9_1_autogen/EWIEGA46WW/qrc_assets.cpp.obj	7754c0993d36d27b
+744	7247	7707971316579302	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/squareimagewidget.cpp.obj	97b9d3439983401b
+246	331	7708216982094683	Drone_UI_QR_VER_6_9_1_autogen/EWIEGA46WW/qrc_assets.cpp	f8d719b1cfbee88
+246	331	7708216982094683	D:/projects/drone_swarm/drone_ui/Drone_UI_QR_VER_6_9_1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Drone_UI_QR_VER_6_9_1_autogen/EWIEGA46WW/qrc_assets.cpp	f8d719b1cfbee88
+262	5377	7721347518479572	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/mainwindow.cpp.obj	ad715651f524c9b5
+5377	6605	7721347569632733	Drone_UI_QR_VER_6_9_1.exe	a23182e7f09f9493
+5437	8927	7716654244711178	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/graphwidget.cpp.obj	3937303bfcfae5f3
+323	5260	7709062986880651	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/donutstatuswidget.cpp.obj	62b69deb5be74b70
+34	240	7721355713855399	Drone_UI_QR_VER_6_9_1_autogen/timestamp	d697b5f4f2ac666e
+34	240	7721355713855399	Drone_UI_QR_VER_6_9_1_autogen/mocs_compilation.cpp	d697b5f4f2ac666e
+34	240	7721355713855399	D:/projects/drone_swarm/drone_ui/Drone_UI_QR_VER_6_9_1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Drone_UI_QR_VER_6_9_1_autogen/timestamp	d697b5f4f2ac666e
+34	240	7721355713855399	D:/projects/drone_swarm/drone_ui/Drone_UI_QR_VER_6_9_1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Drone_UI_QR_VER_6_9_1_autogen/mocs_compilation.cpp	d697b5f4f2ac666e
+240	5324	7721355715918914	CMakeFiles/Drone_UI_QR_VER_6_9_1.dir/mainwindow.cpp.obj	ad715651f524c9b5
+5325	5892	7721355766766031	Drone_UI_QR_VER_6_9_1.exe	a23182e7f09f9493

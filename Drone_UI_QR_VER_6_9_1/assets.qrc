@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/bar_ui.svg</file>
+        <file>assets/bar_ui_MID.svg</file>
+        <file>assets/drone.png</file>
+        <file>assets/drone_outline_with_blade_colored.png</file>
+        <file>assets/drone_outline_with_blade_colored.svg</file>
+        <file>assets/graph_ui.svg</file>
+        <file>assets/eadi_middle.svg</file>
+        <file>assets/eadi_outside.svg</file>
+    </qresource>
+</RCC>

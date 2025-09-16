@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="100mm"
+   viewBox="0 0 200 100"
+   version="1.1"
+   id="svg48"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:lc="https://librecad.org">
+  <defs
+     id="defs48" />
+  <g
+     lc:layername="0"
+     lc:is_locked="false"
+     lc:is_construction="false"
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     id="g48"
+     style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1">
+    <line
+       x1="190"
+       y1="100"
+       x2="190"
+       y2="0"
+       id="line1"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="10"
+       cy="30"
+       r="0.1"
+       id="circle1"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="30"
+       cy="30"
+       r="0.1"
+       id="circle2"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="10"
+       cy="10"
+       r="0.1"
+       id="circle3"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="30"
+       cy="10"
+       r="0.1"
+       id="circle4"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="50"
+       cy="30"
+       r="0.1"
+       id="circle5"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="70"
+       cy="30"
+       r="0.1"
+       id="circle6"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="50"
+       cy="10"
+       r="0.1"
+       id="circle7"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="70"
+       cy="10"
+       r="0.1"
+       id="circle8"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="90"
+       cy="30"
+       r="0.1"
+       id="circle9"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="110"
+       cy="30"
+       r="0.1"
+       id="circle10"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="90"
+       cy="10"
+       r="0.1"
+       id="circle11"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="110"
+       cy="10"
+       r="0.1"
+       id="circle12"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="130"
+       cy="30"
+       r="0.1"
+       id="circle13"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="150"
+       cy="30"
+       r="0.1"
+       id="circle14"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="130"
+       cy="10"
+       r="0.1"
+       id="circle15"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="150"
+       cy="10"
+       r="0.1"
+       id="circle16"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="170"
+       cy="30"
+       r="0.1"
+       id="circle17"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="170"
+       cy="10"
+       r="0.1"
+       id="circle18"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="200"
+       y1="10"
+       x2="190"
+       y2="10"
+       id="line18"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="200"
+       y1="30"
+       x2="190"
+       y2="30"
+       id="line19"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="10"
+       cy="70"
+       r="0.1"
+       id="circle19"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="30"
+       cy="70"
+       r="0.1"
+       id="circle20"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="10"
+       cy="90"
+       r="0.1"
+       id="circle21"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="30"
+       cy="90"
+       r="0.1"
+       id="circle22"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="50"
+       cy="90"
+       r="0.1"
+       id="circle23"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="70"
+       cy="90"
+       r="0.1"
+       id="circle24"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="50"
+       cy="70"
+       r="0.1"
+       id="circle25"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="70"
+       cy="70"
+       r="0.1"
+       id="circle26"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="90"
+       cy="90"
+       r="0.1"
+       id="circle27"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="110"
+       cy="90"
+       r="0.1"
+       id="circle28"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="90"
+       cy="70"
+       r="0.1"
+       id="circle29"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="110"
+       cy="70"
+       r="0.1"
+       id="circle30"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="130"
+       cy="90"
+       r="0.1"
+       id="circle31"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="150"
+       cy="90"
+       r="0.1"
+       id="circle32"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="130"
+       cy="70"
+       r="0.1"
+       id="circle33"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="150"
+       cy="70"
+       r="0.1"
+       id="circle34"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="170"
+       cy="90"
+       r="0.1"
+       id="circle35"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cx="170"
+       cy="70"
+       r="0.1"
+       id="circle36"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="200"
+       y1="70"
+       x2="190"
+       y2="70"
+       id="line36"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="200"
+       y1="90"
+       x2="190"
+       y2="90"
+       id="line37"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="200"
+       y1="50"
+       x2="190"
+       y2="50"
+       id="line38"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="198"
+       y1="80"
+       x2="192"
+       y2="80"
+       id="line39"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="198"
+       y1="100"
+       x2="192"
+       y2="100"
+       id="line40"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="198"
+       y1="60"
+       x2="192"
+       y2="60"
+       id="line41"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="198"
+       y1="40"
+       x2="192"
+       y2="40"
+       id="line42"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="198"
+       y1="20"
+       x2="192"
+       y2="20"
+       id="line43"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="198"
+       y1="0"
+       x2="192"
+       y2="0"
+       id="line44"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="100"
+       id="line45"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="190"
+       y1="0"
+       x2="0"
+       y2="0"
+       id="line46"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="0"
+       y1="100"
+       x2="190"
+       y2="100"
+       id="line47"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+    <line
+       x1="10"
+       y1="50"
+       x2="190"
+       y2="50"
+       id="line48"
+       style="stroke:#ffa100;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
